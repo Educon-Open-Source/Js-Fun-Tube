@@ -1,0 +1,34 @@
+body{
+    background-color:#eee;
+    padding-left:25px;
+    padding-right: 25px;
+
+}
+
+.addextra{
+    position:relative;
+    top:5rem;
+    padding: 25px;
+    text-align: center;
+    line-height: 50px;
+    background-color: aquamarine;
+    height: 25rem;
+    width: auto;
+}
+
+.btn{
+    background-color: beige;
+    width: auto;
+    border:2px black solid;
+    border-radius: 25%;
+}
+
+.rqform{
+    position:relative;
+    padding: 25px;
+    text-align: center;
+    line-height: 50px;
+    background-color: chartreuse;
+}
+
+
